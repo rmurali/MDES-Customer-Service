@@ -1,0 +1,4 @@
+TokenUpdate.java in the MDES Customer Service API
+has been modified to allow access to the Mastercard test
+envrionment (MTF) through the use of an envrionment variable. The source
+code as currently provided by Mastercard only allows access to their production environment.  
